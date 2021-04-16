@@ -3,8 +3,8 @@ import argparse
 import torch
 from torch.utils.data import DataLoader
 
-from tf.data import TestDataset
-from tf.model import Model
+from data import TestDataset
+from model import Model
 
 
 def main(test_data_dir):
