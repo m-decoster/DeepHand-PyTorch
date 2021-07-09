@@ -16,7 +16,7 @@ It requires a single argument, which is the path to the test folder of the
 One Million Hands dataset.
 
 1. Download the One Million Hands test set
-2. Run `python evaluate.py /path/to/test/`
+2. Run `python evaluate_test.py /path/to/test/`
 
 ## Conversion code
 
